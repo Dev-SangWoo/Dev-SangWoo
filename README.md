@@ -25,7 +25,13 @@
 
 # Featured Projects
 
-## Pacto
+<p align="center">
+  <a href="https://github.com/Dev-SangWoo/Pacto-frontend-v2">
+    <img src="https://raw.githubusercontent.com/Dev-SangWoo/Pacto-frontend-v2/main/assets/logo-bg-rm.png" width="150" alt="Pacto logo" />
+  </a>
+</p>
+
+## [Pacto](https://github.com/Dev-SangWoo/Pacto-frontend-v2)
 
 **B2B2C 블로그 마케팅 캠페인의 모집부터 콘텐츠 검수, 정산까지 연결한 운영 플랫폼**
 
@@ -51,7 +57,13 @@
 
 ---
 
-## Investory
+<p align="center">
+  <a href="https://github.com/kb-investory/investory-frontend-v2">
+    <img src="https://raw.githubusercontent.com/kb-investory/investory-frontend-v2/main/public/assets/logos/investory-logo-transparent.png" width="220" alt="Investory logo" />
+  </a>
+</p>
+
+## [Investory](https://github.com/kb-investory/investory-frontend-v2)
 
 **투자 기록 → 성향 분석 → 투자 원칙 → 시뮬레이션으로 이어지는 AI 투자 일지 서비스**
 
@@ -80,7 +92,13 @@
 
 ---
 
-## Cookit
+<p align="center">
+  <a href="https://github.com/Dev-SangWoo/Cookit">
+    <img src="https://raw.githubusercontent.com/Dev-SangWoo/Cookit/main/CookitMobile/assets/app_logo.png" width="150" alt="Cookit logo" />
+  </a>
+</p>
+
+## [Cookit](https://github.com/Dev-SangWoo/Cookit)
 
 **AI · OCR · Voice를 활용해 요리 과정을 보조하는 모바일 서비스**
 
