@@ -8,30 +8,45 @@
 
 # About Me
 
-> **사용자 경험을 만들 때 화면뿐 아니라 상태·데이터·API가 어떻게 연결되는지 함께 고민합니다.**
+사용자 경험을 만들 때 화면뿐 아니라 **상태·데이터·API가 어떻게 연결되는지** 함께 고민합니다.
 
-좋은 결과는 개인의 노력뿐 아니라 팀의 협력에서 나온다고 생각합니다. 그래서 목표와 방향을 맞추고, 서로의 강점을 살리며 함께 더 나은 결과를 만들어가는 과정을 중요하게 여깁니다.
+좋은 결과는 개인의 노력뿐 아니라 팀의 협력에서 나온다고 생각합니다. 그래서 목표와 방향을 맞추고, 서로의 강점을 살리며 **함께 더 나은 결과를 만들어가는 과정**을 중요하게 여깁니다.
 
-제가 배운 것을 팀과 나누고, 개인의 성장이 팀의 성장으로 이어지는 선순환 속에서 함께 성장하는 개발자가 되고 싶습니다.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000000" />
-</p>
+제가 배운 것을 팀과 나누고, **개인의 성장이 팀의 성장으로 이어지는 선순환** 속에서 함께 성장하는 개발자가 되고 싶습니다.
 
 ---
 
-# Featured Projects
+# Core Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000000" />
+
+</div>
+
+<div align="center">
+
+**Also worked with**
+
+`FastAPI` · `Python` · `Node.js` · `Socket.IO` · `PostgreSQL` · `Supabase`
+
+</div>
+
+---
+
+# Selected Work
 
 <table>
   <thead>
     <tr>
-      <th width="17%">Project</th>
-      <th width="19%">Role & Context</th>
-      <th width="44%">What I Built</th>
-      <th width="20%">Tech</th>
+      <th width="20%">Project</th>
+      <th width="55%">Contribution</th>
+      <th width="25%">Stack</th>
     </tr>
   </thead>
   <tbody>
@@ -42,20 +57,14 @@
         </a>
         <br />
         <strong><a href="https://github.com/Dev-SangWoo/Pacto-frontend-v2">Pacto</a></strong>
-      </td>
-      <td>
-        <strong>3인 팀</strong><br />
-        Frontend 단독 담당<br />
-        8주 MVP<br /><br />
-        <strong>모두의 창업</strong><br />응모 프로젝트
+        <br />
+        <sub>Frontend 단독 담당</sub>
       </td>
       <td>
         <ul>
-          <li>pnpm Workspace 기반 Blogger Mobile Web / Operations Dashboard 멀티앱 구조 구현</li>
-          <li>Service → Adapter → Domain Type 기반 API와 UI 데이터 경계 설계</li>
-          <li>HttpOnly Cookie + Next.js Proxy 기반 Access Token 갱신 및 RBAC / Campaign Policy 중앙화</li>
-          <li>핵심 이미지 약 <strong>2.80MB → 181KB</strong> 최적화</li>
-          <li>초기 Campaign Fetch <strong>100건 → 24건</strong> 축소</li>
+          <li>Blogger Mobile Web / Operations Dashboard를 <strong>pnpm Workspace 기반 멀티앱 구조</strong>로 구현</li>
+          <li>인증 · API 데이터 경계 · RBAC / Campaign Policy 등 <strong>Frontend Architecture 설계</strong></li>
+          <li>이미지 <strong>2.80MB → 181KB</strong>, 초기 Campaign Fetch <strong>100건 → 24건</strong>으로 최적화</li>
         </ul>
       </td>
       <td>
@@ -63,8 +72,6 @@
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF" />
         <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=FFFFFF" />
       </td>
     </tr>
     <tr>
@@ -74,31 +81,22 @@
         </a>
         <br />
         <strong><a href="https://github.com/kb-investory/investory-frontend-v2">Investory</a></strong>
-      </td>
-      <td>
-        <strong>6인 팀</strong><br />
-        Team Lead · Planning<br />
-        Simulation Frontend & Python API<br /><br />
-        <strong>KB IT's Your Life 7기</strong><br />최종 프로젝트<br />
-        <a href="https://github.com/kb-investory/investory-simulation-api">Simulation API</a>
+        <br />
+        <sub>Team Lead · Simulation</sub>
       </td>
       <td>
         <ul>
-          <li>팀장으로 서비스 기획 및 개발 과정 조율</li>
-          <li>Simulation 전체 UI/UX 및 Personal Bot → Backtest 사용자 흐름 구현</li>
-          <li>비동기 Compile / Simulation Job Polling 및 API 응답 정규화</li>
-          <li>Participant별 Chart / Trade / Position 상태 동기화</li>
-          <li>FastAPI 기반 Simulation API와 Backtest · Monte Carlo · Analytics · AI Report Pipeline 구현</li>
+          <li>6인 팀의 팀장으로 서비스 기획과 개발 방향을 조율하고, <strong>Simulation UI/UX 전체 구현</strong></li>
+          <li>Personal Bot → Backtest 흐름과 <strong>비동기 Compile / Simulation Job Polling UX</strong> 설계</li>
+          <li><strong>FastAPI 기반 Simulation API</strong>와 Backtest · Monte Carlo · Analytics · AI Report Pipeline 구현</li>
         </ul>
+        <a href="https://github.com/kb-investory/investory-simulation-api">Simulation API →</a>
       </td>
       <td>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=FFFFFF" />
         <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=000000" />
-        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=FFFFFF" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=FFFFFF" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF" />
       </td>
     </tr>
     <tr>
@@ -108,27 +106,20 @@
         </a>
         <br />
         <strong><a href="https://github.com/Dev-SangWoo/Cookit">Cookit</a></strong>
-      </td>
-      <td>
-        <strong>3인 팀</strong><br />
-        Team Lead<br />
-        Full-stack Developer<br /><br />
-        대학 <strong>졸업작품</strong>
+        <br />
+        <sub>Team Lead · Full-stack</sub>
       </td>
       <td>
         <ul>
-          <li>팀장으로 서비스 기획 및 프로젝트 개발 방향 조율</li>
-          <li>React Native 기반 모바일 사용자 경험 구현</li>
-          <li>OCR 결과를 요리 데이터로 연결하는 입력 흐름 구현</li>
-          <li>AI 기반 레시피 처리 Pipeline 및 음성 기반 조리 Interaction 구현</li>
-          <li>Supabase 기반 사용자 및 서비스 데이터 흐름 구현</li>
+          <li>대학 졸업작품 3인 팀의 팀장으로 기획부터 개발까지 진행</li>
+          <li><strong>AI · OCR · Voice</strong>를 실제 모바일 요리 경험으로 연결</li>
+          <li>React Native UI부터 AI 처리 Pipeline, Supabase 기반 데이터 흐름까지 Full-stack으로 구현</li>
         </ul>
       </td>
       <td>
         <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000000" />
-        <img src="https://img.shields.io/badge/AI-8E75B2?style=flat-square&logo=google&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/OCR-4285F4?style=flat-square&logo=googlelens&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/Voice-FF4F64?style=flat-square&logo=googleassistant&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/AI-8E75B2?style=flat-square" />
+        <img src="https://img.shields.io/badge/OCR-4285F4?style=flat-square" />
         <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=FFFFFF" />
       </td>
     </tr>
@@ -137,185 +128,64 @@
 
 ---
 
-# Competition & Team Projects
+# More Projects
 
 <table>
   <thead>
     <tr>
-      <th width="16%">Project</th>
-      <th width="12%">Role</th>
-      <th width="40%">What I Built</th>
-      <th width="14%">Tech</th>
-      <th width="18%">Context</th>
+      <th width="23%">Project</th>
+      <th width="52%">Highlight</th>
+      <th width="25%">Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong><a href="https://github.com/Dev-SangWoo/DailyMotion">DailyMotion</a></strong></td>
-      <td>Mobile · Backend</td>
       <td>
-        <ul>
-          <li>React Native 기반 실시간 위치 UX 구현</li>
-          <li>FastAPI Backend 및 위치 기반 비즈니스 로직 구현</li>
-          <li>PostGIS 기반 위치 데이터 처리</li>
-        </ul>
+        <strong><a href="https://github.com/Dev-SangWoo/DailyMotion">DailyMotion</a></strong>
+        <br />
+        <sub>공모전 우수상</sub>
       </td>
+      <td>실시간 위치 기반 Mobile UX와 FastAPI Backend 구현, PostGIS 기반 위치 데이터 처리</td>
       <td>
         <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000000" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF" />
         <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF" />
       </td>
-      <td><strong>2025 민관협력 지원 플랫폼 활용 디지털 사회혁신 서비스 개발 아이디어 공모전</strong><br /><br />교통혁신 부문 <strong>우수상</strong></td>
     </tr>
     <tr>
       <td><strong><a href="https://github.com/Dev-SangWoo/Nadle-Front">Nadle</a></strong></td>
-      <td>Frontend Developer</td>
-      <td>
-        <ul>
-          <li>GPS 상태 모델링 및 위치 기반 Journey 구현</li>
-          <li>외부 API 응답 정규화</li>
-          <li>API Retry 및 위치 계산 fallback 구현</li>
-        </ul>
-      </td>
+      <td>GPS 상태 모델링과 위치 기반 Journey 구현, 외부 API 정규화 · Retry · 위치 계산 Fallback 처리</td>
       <td>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=FFFFFF" />
         <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=000000" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/Geolocation_API-4285F4?style=flat-square&logoColor=FFFFFF" />
       </td>
-      <td><strong>행정안전부 2026년 전국 통합데이터 활용 공모전</strong><br /><br />AI 미션형 자전거 동네 여행 서비스</td>
     </tr>
     <tr>
       <td><strong><a href="https://github.com/Dev-SangWoo/BeyondToursSeoul-BTS_Front">Beyond Tours Seoul</a></strong></td>
-      <td>Frontend Developer</td>
-      <td>
-        <ul>
-          <li>AI 여행 추천 입력 → 일정 생성 UX 구현</li>
-          <li>AI Structured Response 정규화</li>
-          <li>Naver Map / Timeline 연동 및 다국어 처리</li>
-        </ul>
-      </td>
+      <td>AI Structured Response를 일정 데이터로 정규화하고, Naver Maps · Timeline · 다국어 UX로 연결</td>
       <td>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=000000" />
         <img src="https://img.shields.io/badge/Naver_Maps-03C75A?style=flat-square&logo=naver&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/AI-8E75B2?style=flat-square" />
         <img src="https://img.shields.io/badge/i18n-26A69A?style=flat-square" />
       </td>
-      <td><strong>2026 서울시 빅데이터 활용 경진대회</strong><br /><br />외국인을 위한 AI 서울 여행 추천 서비스</td>
     </tr>
-  </tbody>
-</table>
-
----
-
-# Toy Projects
-
-<table>
-  <thead>
-    <tr>
-      <th width="18%">Project</th>
-      <th width="48%">What I Built</th>
-      <th width="18%">Tech</th>
-      <th width="16%">Context</th>
-    </tr>
-  </thead>
-  <tbody>
     <tr>
       <td><strong><a href="https://github.com/Dev-SangWoo/KB-7-Icecream-bet">ICECREAM QUEST</a></strong></td>
-      <td>
-        <ul>
-          <li>Gemini 자연어 입력 → Zod 검증 → 데이터 정규화 구현</li>
-          <li>AI 실패 시 Rule-based Parser fallback 구현</li>
-          <li>Supabase 실패 시 localStorage fallback 구현</li>
-        </ul>
-      </td>
+      <td>자연어 입력을 Gemini → Zod 검증 → 정규화로 처리하고, AI · Database 실패에 대한 Fallback Pipeline 구현</td>
       <td>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" />
         <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=FFFFFF" />
         <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=FFFFFF" />
       </td>
-      <td>KB IT's Your Life 7기 수료 중 진행한 개인 Toy Project</td>
     </tr>
     <tr>
       <td><strong><a href="https://github.com/Dev-SangWoo/WhenCanWeGetTogether">언제모일까?</a></strong></td>
-      <td>
-        <ul>
-          <li>Socket.IO 기반 Room 일정·참가자·채팅 실시간 동기화</li>
-          <li>공통 가능일 계산 UX 구현</li>
-          <li>Next.js + Socket.IO Custom Server 구성</li>
-        </ul>
-      </td>
+      <td>Socket.IO 기반 Room 일정 · 참가자 · 채팅 동기화와 공통 가능일 계산 UX 구현</td>
       <td>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF" />
         <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF" />
       </td>
-      <td>KB IT's Your Life 7기 수료 중 제작한 실시간 일정 조율 Toy Project</td>
     </tr>
   </tbody>
 </table>
-
----
-
-# Tech Stack
-
-<table>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=FFFFFF" />
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000000" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>State & Data</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=FFFFFF" />
-      <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=000000" />
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=FFFFFF" />
-      <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=FFFFFF" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=FFFFFF" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=FFFFFF" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Database</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=FFFFFF" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF" />
-      <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF" />
-    </td>
-  </tr>
-</table>
-
-### Focus
-
-`Frontend Architecture` · `Performance Optimization` · `Realtime` · `AI Integration` · `PWA` · `Mobile` · `API Design`
-
----
-
-<div align="center">
-
-### Grow together, build better.
-
-**맡은 역할에 책임을 다하며, 개인의 성장을 팀의 성장으로 연결하는 개발자가 되고 싶습니다.**
-
-</div>
