@@ -25,11 +25,115 @@
 
 # Featured Projects
 
-| Project | Role | What I Built | Tech | Context |
-| --- | --- | --- | --- | --- |
-| **[Pacto](https://github.com/Dev-SangWoo/Pacto-frontend-v2)** | 3인 팀 · Frontend 단독 담당 · 8주 MVP | pnpm Workspace 기반 Blogger Mobile Web / Operations Dashboard 멀티앱 구조 구현<br>Service → Adapter → Domain Type 기반 API와 UI 데이터 경계 설계<br>HttpOnly Cookie + Next.js Proxy 기반 Access Token 갱신 및 RBAC / Campaign Policy 중앙화<br>핵심 이미지 약 2.80MB → 181KB 최적화 · 초기 Campaign Fetch 100건 → 24건 축소 | Next.js · React · TypeScript · TanStack Query · pnpm · PWA | **모두의 창업** 응모를 목표로 개발한 3인 팀 MVP |
-| **[Investory](https://github.com/kb-investory/investory-frontend-v2)** | 6인 팀 · Team Lead · Planning · Simulation Frontend & Python API | 팀장으로 서비스 기획 및 개발 과정 조율<br>Simulation 전체 UI/UX 및 Personal Bot → Backtest 사용자 흐름 구현<br>비동기 Compile / Simulation Job Polling 및 API 응답 정규화<br>FastAPI 기반 Simulation API와 Backtest · Monte Carlo · Analytics · AI Report Pipeline 구현 | Vue · Pinia · TanStack Query · ECharts · FastAPI · Python · pandas · MySQL | **KB IT's Your Life 7기** 최종 프로젝트<br>[Simulation API](https://github.com/kb-investory/investory-simulation-api) |
-| **[Cookit](https://github.com/Dev-SangWoo/Cookit)** | 3인 팀 · Team Lead · Full-stack Developer | 팀장으로 서비스 기획 및 개발 방향 조율<br>React Native 기반 모바일 사용자 경험 구현<br>OCR 결과를 요리 데이터로 연결하고 AI 기반 레시피 처리 Pipeline 연동<br>음성 기반 조리 Interaction 및 Supabase 데이터 흐름 구현 | React Native · AI · OCR · Voice · Supabase | 대학 **졸업작품**으로 진행한 3인 팀 프로젝트 |
+<table>
+  <thead>
+    <tr>
+      <th width="17%">Project</th>
+      <th width="19%">Role & Context</th>
+      <th width="44%">What I Built</th>
+      <th width="20%">Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Dev-SangWoo/Pacto-frontend-v2">
+          <img src="https://raw.githubusercontent.com/Dev-SangWoo/Pacto-frontend-v2/main/assets/logo-bg-rm.png" width="90" alt="Pacto logo" />
+        </a>
+        <br />
+        <strong><a href="https://github.com/Dev-SangWoo/Pacto-frontend-v2">Pacto</a></strong>
+      </td>
+      <td>
+        <strong>3인 팀</strong><br />
+        Frontend 단독 담당<br />
+        8주 MVP<br /><br />
+        <strong>모두의 창업</strong><br />응모 프로젝트
+      </td>
+      <td>
+        <ul>
+          <li>pnpm Workspace 기반 Blogger Mobile Web / Operations Dashboard 멀티앱 구조 구현</li>
+          <li>Service → Adapter → Domain Type 기반 API와 UI 데이터 경계 설계</li>
+          <li>HttpOnly Cookie + Next.js Proxy 기반 Access Token 갱신 및 RBAC / Campaign Policy 중앙화</li>
+          <li>핵심 이미지 약 <strong>2.80MB → 181KB</strong> 최적화</li>
+          <li>초기 Campaign Fetch <strong>100건 → 24건</strong> 축소</li>
+        </ul>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=FFFFFF" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/kb-investory/investory-frontend-v2">
+          <img src="https://raw.githubusercontent.com/kb-investory/investory-frontend-v2/main/public/assets/logos/investory-logo-transparent.png" width="125" alt="Investory logo" />
+        </a>
+        <br />
+        <strong><a href="https://github.com/kb-investory/investory-frontend-v2">Investory</a></strong>
+      </td>
+      <td>
+        <strong>6인 팀</strong><br />
+        Team Lead · Planning<br />
+        Simulation Frontend & Python API<br /><br />
+        <strong>KB IT's Your Life 7기</strong><br />최종 프로젝트<br />
+        <a href="https://github.com/kb-investory/investory-simulation-api">Simulation API</a>
+      </td>
+      <td>
+        <ul>
+          <li>팀장으로 서비스 기획 및 개발 과정 조율</li>
+          <li>Simulation 전체 UI/UX 및 Personal Bot → Backtest 사용자 흐름 구현</li>
+          <li>비동기 Compile / Simulation Job Polling 및 API 응답 정규화</li>
+          <li>Participant별 Chart / Trade / Position 상태 동기화</li>
+          <li>FastAPI 기반 Simulation API와 Backtest · Monte Carlo · Analytics · AI Report Pipeline 구현</li>
+        </ul>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=000000" />
+        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Dev-SangWoo/Cookit">
+          <img src="https://raw.githubusercontent.com/Dev-SangWoo/Cookit/main/CookitMobile/assets/app_logo.png" width="90" alt="Cookit logo" />
+        </a>
+        <br />
+        <strong><a href="https://github.com/Dev-SangWoo/Cookit">Cookit</a></strong>
+      </td>
+      <td>
+        <strong>3인 팀</strong><br />
+        Team Lead<br />
+        Full-stack Developer<br /><br />
+        대학 <strong>졸업작품</strong>
+      </td>
+      <td>
+        <ul>
+          <li>팀장으로 서비스 기획 및 프로젝트 개발 방향 조율</li>
+          <li>React Native 기반 모바일 사용자 경험 구현</li>
+          <li>OCR 결과를 요리 데이터로 연결하는 입력 흐름 구현</li>
+          <li>AI 기반 레시피 처리 Pipeline 및 음성 기반 조리 Interaction 구현</li>
+          <li>Supabase 기반 사용자 및 서비스 데이터 흐름 구현</li>
+        </ul>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000000" />
+        <img src="https://img.shields.io/badge/AI-8E75B2?style=flat-square&logo=google&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/OCR-4285F4?style=flat-square&logo=googlelens&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/Voice-FF4F64?style=flat-square&logo=googleassistant&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=FFFFFF" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
