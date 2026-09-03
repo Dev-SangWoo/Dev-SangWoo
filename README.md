@@ -1,25 +1,25 @@
 <div align="center">
 
-# SangWoo Hong
+# Frontend Developer
 
-### Frontend Developer
-
-**맡은 역할에 책임을 다하며, 개인의 성장을 팀의 성장으로 연결하는 개발자가 되고 싶습니다.**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000000" />
+### 맡은 역할에 책임을 다하며, 개인의 성장을 팀의 성장으로 연결하는 개발자가 되고 싶습니다.
 
 </div>
 
 ---
 
-## About Me
+# About Me
 
-사용자에게 보이는 화면을 구현하는 것에서 끝나지 않고, **상태·데이터·API가 어떻게 연결되어 사용자 경험을 만드는지**까지 고민하는 Frontend Developer입니다.
+> **사용자에게 보이는 화면을 구현하는 것에서 끝나지 않고, 상태·데이터·API가 어떻게 연결되어 사용자 경험을 만드는지까지 고민합니다.**
 
 프로젝트에서는 맡은 영역을 끝까지 책임지는 것을 중요하게 생각합니다. 문제를 해결하며 얻은 경험을 팀과 공유하고, 더 나은 구조와 개발 방식을 함께 만들어가는 과정에서 성장하고 싶습니다.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000000" />
+</p>
 
 ---
 
