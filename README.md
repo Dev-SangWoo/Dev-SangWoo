@@ -1,6 +1,8 @@
 <div align="center">
 
-## 맡은 역할에 책임을 다하며, 개인의 성장을 팀의 성장으로 연결하는 개발자가 되고 싶습니다.
+# 사용자 경험과 팀의 성장을 함께 고민하는 개발자
+
+**맡은 역할에 책임을 다하며, 개인의 성장을 팀의 성장으로 연결하고 싶습니다.**
 
 </div>
 
@@ -145,7 +147,7 @@
         <br />
         <sub>공모전 우수상</sub>
       </td>
-      <td>실시간 위치 기반 Mobile UX와 FastAPI Backend 구현, PostGIS 기반 위치 데이터 처리</td>
+      <td><strong>Realtime Location</strong> · <strong>FastAPI Backend</strong> · <strong>PostGIS</strong></td>
       <td>
         <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000000" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=FFFFFF" />
@@ -154,7 +156,7 @@
     </tr>
     <tr>
       <td><strong><a href="https://github.com/Dev-SangWoo/Nadle-Front">Nadle</a></strong></td>
-      <td>GPS 상태 모델링과 위치 기반 Journey 구현, 외부 API 정규화 · Retry · 위치 계산 Fallback 처리</td>
+      <td><strong>GPS State Modeling</strong> · <strong>API Resilience</strong> · <strong>Location Fallback</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=FFFFFF" />
         <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=000000" />
@@ -162,7 +164,7 @@
     </tr>
     <tr>
       <td><strong><a href="https://github.com/Dev-SangWoo/BeyondToursSeoul-BTS_Front">Beyond Tours Seoul</a></strong></td>
-      <td>AI Structured Response를 일정 데이터로 정규화하고, Naver Maps · Timeline · 다국어 UX로 연결</td>
+      <td><strong>AI Response Normalization</strong> · <strong>Map / Timeline UX</strong> · <strong>i18n</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=FFFFFF" />
         <img src="https://img.shields.io/badge/Naver_Maps-03C75A?style=flat-square&logo=naver&logoColor=FFFFFF" />
@@ -171,7 +173,7 @@
     </tr>
     <tr>
       <td><strong><a href="https://github.com/Dev-SangWoo/KB-7-Icecream-bet">ICECREAM QUEST</a></strong></td>
-      <td>자연어 입력을 Gemini → Zod 검증 → 정규화로 처리하고, AI · Database 실패에 대한 Fallback Pipeline 구현</td>
+      <td><strong>AI Parsing Pipeline</strong> · <strong>Zod Validation</strong> · <strong>Fallback</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
         <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=FFFFFF" />
@@ -180,7 +182,7 @@
     </tr>
     <tr>
       <td><strong><a href="https://github.com/Dev-SangWoo/WhenCanWeGetTogether">언제모일까?</a></strong></td>
-      <td>Socket.IO 기반 Room 일정 · 참가자 · 채팅 동기화와 공통 가능일 계산 UX 구현</td>
+      <td><strong>Realtime Sync</strong> · <strong>Socket.IO</strong> · <strong>Scheduling UX</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
         <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=FFFFFF" />
