@@ -139,20 +139,99 @@
 
 # Competition & Team Projects
 
-| Project | Role | What I Built | Tech | 비고 |
-| --- | --- | --- | --- | --- |
-| **[DailyMotion](https://github.com/Dev-SangWoo/DailyMotion)** | Mobile · Backend | React Native 기반 실시간 위치 UX 구현<br>FastAPI Backend 및 위치 기반 비즈니스 로직 구현<br>PostGIS 기반 위치 데이터 처리 | React Native · FastAPI · PostgreSQL · PostGIS | **2025 민관협력 지원 플랫폼 활용 디지털 사회혁신 서비스 개발 아이디어 공모전**<br>교통혁신 부문 **우수상** |
-| **[Nadle](https://github.com/Dev-SangWoo/Nadle-Front)** | Frontend Developer | GPS 상태 모델링 및 위치 기반 Journey 구현<br>외부 API 응답 정규화<br>API Retry 및 위치 계산 fallback 구현 | Vue · Pinia · Vite · Geolocation API | **행정안전부 2026년 전국 통합데이터 활용 공모전**<br>AI 미션형 자전거 동네 여행 서비스 |
-| **[Beyond Tours Seoul](https://github.com/Dev-SangWoo/BeyondToursSeoul-BTS_Front)** | Frontend Developer | AI 여행 추천 입력 → 일정 생성 UX 구현<br>AI Structured Response 정규화<br>Naver Map / Timeline 연동 및 다국어 처리 | Vue · Pinia · Naver Maps · AI · i18n | **2026 서울시 빅데이터 활용 경진대회**<br>외국인을 위한 AI 서울 여행 추천 서비스 |
+<table>
+  <thead>
+    <tr>
+      <th width="16%">Project</th>
+      <th width="12%">Role</th>
+      <th width="40%">What I Built</th>
+      <th width="14%">Tech</th>
+      <th width="18%">Context</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong><a href="https://github.com/Dev-SangWoo/DailyMotion">DailyMotion</a></strong></td>
+      <td>Mobile · Backend</td>
+      <td>
+        <ul>
+          <li>React Native 기반 실시간 위치 UX 구현</li>
+          <li>FastAPI Backend 및 위치 기반 비즈니스 로직 구현</li>
+          <li>PostGIS 기반 위치 데이터 처리</li>
+        </ul>
+      </td>
+      <td>React Native<br />FastAPI<br />PostgreSQL<br />PostGIS</td>
+      <td><strong>2025 민관협력 지원 플랫폼 활용 디지털 사회혁신 서비스 개발 아이디어 공모전</strong><br /><br />교통혁신 부문 <strong>우수상</strong></td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/Dev-SangWoo/Nadle-Front">Nadle</a></strong></td>
+      <td>Frontend Developer</td>
+      <td>
+        <ul>
+          <li>GPS 상태 모델링 및 위치 기반 Journey 구현</li>
+          <li>외부 API 응답 정규화</li>
+          <li>API Retry 및 위치 계산 fallback 구현</li>
+        </ul>
+      </td>
+      <td>Vue<br />Pinia<br />Vite<br />Geolocation API</td>
+      <td><strong>행정안전부 2026년 전국 통합데이터 활용 공모전</strong><br /><br />AI 미션형 자전거 동네 여행 서비스</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/Dev-SangWoo/BeyondToursSeoul-BTS_Front">Beyond Tours Seoul</a></strong></td>
+      <td>Frontend Developer</td>
+      <td>
+        <ul>
+          <li>AI 여행 추천 입력 → 일정 생성 UX 구현</li>
+          <li>AI Structured Response 정규화</li>
+          <li>Naver Map / Timeline 연동 및 다국어 처리</li>
+        </ul>
+      </td>
+      <td>Vue<br />Pinia<br />Naver Maps<br />AI · i18n</td>
+      <td><strong>2026 서울시 빅데이터 활용 경진대회</strong><br /><br />외국인을 위한 AI 서울 여행 추천 서비스</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 # Toy Projects
 
-| Project | What I Built | Tech | 비고 |
-| --- | --- | --- | --- |
-| [**ICECREAM QUEST**](https://github.com/Dev-SangWoo/KB-7-Icecream-bet) | Gemini 자연어 입력 → Zod 검증 → 데이터 정규화 구현<br>AI 실패 시 Rule-based Parser fallback 구현<br>Supabase 실패 시 localStorage fallback 구현 | Next.js · React · Gemini · Zod · Supabase | KB IT's Your Life 7기 수료 중 진행한 개인 Toy Project |
-| [**언제모일까?**](https://github.com/Dev-SangWoo/WhenCanWeGetTogether) | Socket.IO 기반 Room 일정·참가자·채팅 실시간 동기화<br>공통 가능일 계산 UX 구현<br>Next.js + Socket.IO Custom Server 구성 | Next.js · React · TypeScript · Socket.IO · Node.js | KB IT's Your Life 7기 수료 중 제작한 실시간 일정 조율 Toy Project |
+<table>
+  <thead>
+    <tr>
+      <th width="18%">Project</th>
+      <th width="48%">What I Built</th>
+      <th width="18%">Tech</th>
+      <th width="16%">Context</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong><a href="https://github.com/Dev-SangWoo/KB-7-Icecream-bet">ICECREAM QUEST</a></strong></td>
+      <td>
+        <ul>
+          <li>Gemini 자연어 입력 → Zod 검증 → 데이터 정규화 구현</li>
+          <li>AI 실패 시 Rule-based Parser fallback 구현</li>
+          <li>Supabase 실패 시 localStorage fallback 구현</li>
+        </ul>
+      </td>
+      <td>Next.js<br />React<br />Gemini<br />Zod<br />Supabase</td>
+      <td>KB IT's Your Life 7기 수료 중 진행한 개인 Toy Project</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/Dev-SangWoo/WhenCanWeGetTogether">언제모일까?</a></strong></td>
+      <td>
+        <ul>
+          <li>Socket.IO 기반 Room 일정·참가자·채팅 실시간 동기화</li>
+          <li>공통 가능일 계산 UX 구현</li>
+          <li>Next.js + Socket.IO Custom Server 구성</li>
+        </ul>
+      </td>
+      <td>Next.js<br />React<br />TypeScript<br />Socket.IO<br />Node.js</td>
+      <td>KB IT's Your Life 7기 수료 중 제작한 실시간 일정 조율 Toy Project</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
