@@ -8,9 +8,11 @@
 
 # About Me
 
-> **사용자에게 보이는 화면을 구현하는 것에서 끝나지 않고, 상태·데이터·API가 어떻게 연결되어 사용자 경험을 만드는지까지 고민합니다.**
+> **사용자 경험을 만들 때 화면뿐 아니라 상태·데이터·API가 어떻게 연결되는지 함께 고민합니다.**
 
-프로젝트에서는 맡은 영역을 끝까지 책임지는 것을 중요하게 생각합니다. 문제를 해결하며 얻은 경험을 팀과 공유하고, 더 나은 구조와 개발 방식을 함께 만들어가는 과정에서 성장하고 싶습니다.
+좋은 결과는 개인의 노력뿐 아니라 팀의 협력에서 나온다고 생각합니다. 그래서 목표와 방향을 맞추고, 서로의 강점을 살리며 함께 더 나은 결과를 만들어가는 과정을 중요하게 여깁니다.
+
+제가 배운 것을 팀과 나누고, 개인의 성장이 팀의 성장으로 이어지는 선순환 속에서 함께 성장하는 개발자가 되고 싶습니다.
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" />
@@ -23,103 +25,11 @@
 
 # Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Dev-SangWoo/Pacto-frontend-v2">
-    <img src="https://raw.githubusercontent.com/Dev-SangWoo/Pacto-frontend-v2/main/assets/logo-bg-rm.png" width="150" alt="Pacto logo" />
-  </a>
-</p>
-
-## [Pacto](https://github.com/Dev-SangWoo/Pacto-frontend-v2)
-
-**B2B2C 블로그 마케팅 캠페인의 모집부터 콘텐츠 검수, 정산까지 연결한 운영 플랫폼**
-
-> **Project Context**  
-> `모두의 창업` 응모를 목표로 3인 팀에서 8주간 MVP를 개발한 프로젝트입니다.
-
-**Role**  
-`3인 팀 · Frontend Developer · Frontend 1인 · 8주 MVP`
-
-### What I Built
-
-- pnpm Workspace 기반 Blogger Mobile Web / Operations Dashboard 멀티앱 구조 구현
-- Service → Adapter → Domain Type 기반 API와 UI 데이터 경계 설계
-- HttpOnly Cookie + Next.js Proxy 기반 Access Token 갱신 흐름 구현
-- 역할과 상태에 따른 RBAC / Campaign Policy 중앙화
-- 핵심 이미지 자산 약 2.80MB → 181KB로 최적화
-- 초기 Campaign Fetch 100건 → 24건으로 축소
-
-**Tech**  
-`Next.js` · `React` · `TypeScript` · `TanStack Query` · `pnpm` · `PWA`
-
-[Repository](https://github.com/Dev-SangWoo/Pacto-frontend-v2)
-
----
-
-<p align="center">
-  <a href="https://github.com/kb-investory/investory-frontend-v2">
-    <img src="https://raw.githubusercontent.com/kb-investory/investory-frontend-v2/main/public/assets/logos/investory-logo-transparent.png" width="220" alt="Investory logo" />
-  </a>
-</p>
-
-## [Investory](https://github.com/kb-investory/investory-frontend-v2)
-
-**투자 기록 → 성향 분석 → 투자 원칙 → 시뮬레이션으로 이어지는 AI 투자 일지 서비스**
-
-> **Project Context**  
-> `KB IT's Your Life 7기` 교육 과정을 마무리하며 진행한 6인 팀 최종 프로젝트입니다.
-
-**Role**  
-`6인 팀 · Team Lead · Planning · Frontend · Python`
-
-### What I Built
-
-- 6인 팀의 팀장으로 서비스 기획 및 개발 과정 조율
-- Simulation 전체 UI/UX 및 Frontend 구현
-- 개인 투자 원칙 → Personal Bot → Backtest로 이어지는 사용자 흐름 설계
-- AI Bot Compile을 비동기 Job Polling 방식으로 처리하는 UX 구현
-- Simulation 실행을 Submit → Status Polling → Detail Fetch 구조로 구현
-- API 응답 정규화 및 Participant별 Chart / Trade / Position 상태 동기화
-- Python FastAPI 기반 Simulation API 서버 구현
-- Backtest · Monte Carlo · Analytics · AI Report Pipeline 구현
-
-**Tech**  
-`Vue` · `Pinia` · `TanStack Query` · `ECharts` · `FastAPI` · `Python` · `pandas` · `MySQL`
-
-[Frontend Repository](https://github.com/kb-investory/investory-frontend-v2)  
-[Simulation API Repository](https://github.com/kb-investory/investory-simulation-api)
-
----
-
-<p align="center">
-  <a href="https://github.com/Dev-SangWoo/Cookit">
-    <img src="https://raw.githubusercontent.com/Dev-SangWoo/Cookit/main/CookitMobile/assets/app_logo.png" width="150" alt="Cookit logo" />
-  </a>
-</p>
-
-## [Cookit](https://github.com/Dev-SangWoo/Cookit)
-
-**AI · OCR · Voice를 활용해 요리 과정을 보조하는 모바일 서비스**
-
-> **Project Context**  
-> 대학 졸업작품으로 3인 팀을 구성해 기획부터 구현까지 진행한 프로젝트입니다.
-
-**Role**  
-`3인 팀 · Team Lead · Full-stack Developer`
-
-### What I Built
-
-- 팀장으로 서비스 기획 및 프로젝트 개발 방향 조율
-- React Native 기반 모바일 사용자 경험 구현
-- OCR 결과를 요리 데이터로 연결하는 입력 흐름 구현
-- AI 기반 레시피 처리 Pipeline 구현 및 연동
-- 음성을 활용한 요리 과정 Interaction 구현
-- Supabase 기반 사용자 및 서비스 데이터 흐름 구현
-- 모바일 UI부터 데이터 처리까지 Full-stack 범위로 개발
-
-**Tech**  
-`React Native` · `AI` · `OCR` · `Voice` · `Supabase`
-
-[Repository](https://github.com/Dev-SangWoo/Cookit)
+| Project | Role | What I Built | Tech | Context |
+| --- | --- | --- | --- | --- |
+| **[Pacto](https://github.com/Dev-SangWoo/Pacto-frontend-v2)** | 3인 팀 · Frontend 단독 담당 · 8주 MVP | pnpm Workspace 기반 Blogger Mobile Web / Operations Dashboard 멀티앱 구조 구현<br>Service → Adapter → Domain Type 기반 API와 UI 데이터 경계 설계<br>HttpOnly Cookie + Next.js Proxy 기반 Access Token 갱신 및 RBAC / Campaign Policy 중앙화<br>핵심 이미지 약 2.80MB → 181KB 최적화 · 초기 Campaign Fetch 100건 → 24건 축소 | Next.js · React · TypeScript · TanStack Query · pnpm · PWA | **모두의 창업** 응모를 목표로 개발한 3인 팀 MVP |
+| **[Investory](https://github.com/kb-investory/investory-frontend-v2)** | 6인 팀 · Team Lead · Planning · Simulation Frontend & Python API | 팀장으로 서비스 기획 및 개발 과정 조율<br>Simulation 전체 UI/UX 및 Personal Bot → Backtest 사용자 흐름 구현<br>비동기 Compile / Simulation Job Polling 및 API 응답 정규화<br>FastAPI 기반 Simulation API와 Backtest · Monte Carlo · Analytics · AI Report Pipeline 구현 | Vue · Pinia · TanStack Query · ECharts · FastAPI · Python · pandas · MySQL | **KB IT's Your Life 7기** 최종 프로젝트<br>[Simulation API](https://github.com/kb-investory/investory-simulation-api) |
+| **[Cookit](https://github.com/Dev-SangWoo/Cookit)** | 3인 팀 · Team Lead · Full-stack Developer | 팀장으로 서비스 기획 및 개발 방향 조율<br>React Native 기반 모바일 사용자 경험 구현<br>OCR 결과를 요리 데이터로 연결하고 AI 기반 레시피 처리 Pipeline 연동<br>음성 기반 조리 Interaction 및 Supabase 데이터 흐름 구현 | React Native · AI · OCR · Voice · Supabase | 대학 **졸업작품**으로 진행한 3인 팀 프로젝트 |
 
 ---
 
