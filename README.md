@@ -131,7 +131,7 @@
 | --- | --- | --- | --- | --- |
 | **[DailyMotion](https://github.com/Dev-SangWoo/DailyMotion)** | Mobile · Backend | React Native 기반 실시간 위치 UX 구현<br>FastAPI Backend 및 위치 기반 비즈니스 로직 구현<br>PostGIS 기반 위치 데이터 처리 | React Native · FastAPI · PostgreSQL · PostGIS | **2025 민관협력 지원 플랫폼 활용 디지털 사회혁신 서비스 개발 아이디어 공모전**<br>교통혁신 부문 **우수상** |
 | **[Nadle](https://github.com/Dev-SangWoo/Nadle-Front)** | Frontend Developer | GPS 상태 모델링 및 위치 기반 Journey 구현<br>외부 API 응답 정규화<br>API Retry 및 위치 계산 fallback 구현 | Vue · Pinia · Vite · Geolocation API | **행정안전부 2026년 전국 통합데이터 활용 공모전**<br>AI 미션형 자전거 동네 여행 서비스 |
-| **[Beyond Tours Seoul](https://github.com/Jiwon-0326/BeyondToursSeoul-BTS_Front)** | Frontend Developer | AI 여행 추천 입력 → 일정 생성 UX 구현<br>AI Structured Response 정규화<br>Naver Map / Timeline 연동 및 다국어 처리 | Vue · Pinia · Naver Maps · AI · i18n | **2026 서울시 빅데이터 활용 경진대회**<br>외국인을 위한 AI 서울 여행 추천 서비스 |
+| **[Beyond Tours Seoul](https://github.com/Dev-SangWoo/BeyondToursSeoul-BTS_Front)** | Frontend Developer | AI 여행 추천 입력 → 일정 생성 UX 구현<br>AI Structured Response 정규화<br>Naver Map / Timeline 연동 및 다국어 처리 | Vue · Pinia · Naver Maps · AI · i18n | **2026 서울시 빅데이터 활용 경진대회**<br>외국인을 위한 AI 서울 여행 추천 서비스 |
 
 ---
 
