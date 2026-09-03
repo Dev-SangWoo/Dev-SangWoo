@@ -160,7 +160,12 @@
           <li>PostGIS 기반 위치 데이터 처리</li>
         </ul>
       </td>
-      <td>React Native<br />FastAPI<br />PostgreSQL<br />PostGIS</td>
+      <td>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000000" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF" />
+      </td>
       <td><strong>2025 민관협력 지원 플랫폼 활용 디지털 사회혁신 서비스 개발 아이디어 공모전</strong><br /><br />교통혁신 부문 <strong>우수상</strong></td>
     </tr>
     <tr>
@@ -173,7 +178,12 @@
           <li>API Retry 및 위치 계산 fallback 구현</li>
         </ul>
       </td>
-      <td>Vue<br />Pinia<br />Vite<br />Geolocation API</td>
+      <td>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=000000" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/Geolocation_API-4285F4?style=flat-square&logoColor=FFFFFF" />
+      </td>
       <td><strong>행정안전부 2026년 전국 통합데이터 활용 공모전</strong><br /><br />AI 미션형 자전거 동네 여행 서비스</td>
     </tr>
     <tr>
@@ -186,7 +196,13 @@
           <li>Naver Map / Timeline 연동 및 다국어 처리</li>
         </ul>
       </td>
-      <td>Vue<br />Pinia<br />Naver Maps<br />AI · i18n</td>
+      <td>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=000000" />
+        <img src="https://img.shields.io/badge/Naver_Maps-03C75A?style=flat-square&logo=naver&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/AI-8E75B2?style=flat-square" />
+        <img src="https://img.shields.io/badge/i18n-26A69A?style=flat-square" />
+      </td>
       <td><strong>2026 서울시 빅데이터 활용 경진대회</strong><br /><br />외국인을 위한 AI 서울 여행 추천 서비스</td>
     </tr>
   </tbody>
@@ -215,7 +231,13 @@
           <li>Supabase 실패 시 localStorage fallback 구현</li>
         </ul>
       </td>
-      <td>Next.js<br />React<br />Gemini<br />Zod<br />Supabase</td>
+      <td>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" />
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=FFFFFF" />
+      </td>
       <td>KB IT's Your Life 7기 수료 중 진행한 개인 Toy Project</td>
     </tr>
     <tr>
@@ -227,7 +249,13 @@
           <li>Next.js + Socket.IO Custom Server 구성</li>
         </ul>
       </td>
-      <td>Next.js<br />React<br />TypeScript<br />Socket.IO<br />Node.js</td>
+      <td>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=FFFFFF" />
+      </td>
       <td>KB IT's Your Life 7기 수료 중 제작한 실시간 일정 조율 Toy Project</td>
     </tr>
   </tbody>
